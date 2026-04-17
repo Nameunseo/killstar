@@ -17,6 +17,20 @@ main img {
 
 }
 
+.tree {
+    position: absolute;
+    top: 150px;
+    ;
+    width: 250px;
+}
+
+.tree2 {
+    position: absolute;
+    right: 0px;
+    top: 150px;
+    width: 250px;
+}
+
 main .btn {
     position: absolute;
     bottom: 60px;
