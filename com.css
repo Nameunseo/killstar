@@ -143,7 +143,9 @@ header .ham {
 header .menu {
     display: flex;
     gap: 20px;
+   
 }
+
 
 header .ham .bar {
     display: block;
